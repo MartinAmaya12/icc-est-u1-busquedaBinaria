@@ -27,6 +27,6 @@ public class App {
 
         pC.bubbleSortbyname(people);
         Integer result1 = pC.findPersonaByName(people, "Pedro");
-        sC.showResult(result1);
+        sC.showResult(result1);   //pepe, ppapapaa
     }
 }
